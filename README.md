@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Carolina E. Espinosa Robledo
+# 👋 Hi, I'm Carolina
 
-🎨 Senior Product Designer | 📊 Data Visualization | 🤖 AI-powered UX  
-🌎 Remote-first | 🇺🇸 🇨🇦 🇬🇧 Experience | 🏆 Ideathon Winner | 🎤 Speaker
+🎨 Product Designer | 📊 Data Visualization | 🤖 AI-powered UX  
+🌎 🇺🇸 🇨🇦 🇬🇧 Experience | 🏆 Ideathon Winner 
 
 ### 🔍 What I Do
 - Craft intuitive experiences for **data-heavy platforms**
