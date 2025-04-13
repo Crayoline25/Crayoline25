@@ -18,13 +18,3 @@
 - MBA Prep + AI/UX Research ✨
 
 ---
-
-### 📫 Connect with Me  
-💼 [Portfolio](https://yourportfolio.com)  
-📧 [Email](mailto:your@email.com)  
-📍 Based in [City/Country] | Available for freelance + full-time opportunities
-
----
-
-> *“Design without data is like a map without a compass.”*
-
