@@ -1,7 +1,30 @@
-Hi there, I'm ALX-13 
+# 👋 Hi, I'm Carolina E. Espinosa Robledo
 
- About me
+🎨 Senior Product Designer | 📊 Data Visualization | 🤖 AI-powered UX  
+🌎 Remote-first | 🇺🇸 🇨🇦 🇬🇧 Experience | 🏆 Ideathon Winner | 🎤 Speaker
 
-Unicorn
+---
 
-I am a Computer Science student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer for the restaurant industry, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
+### 🔍 What I Do
+- Craft intuitive experiences for **data-heavy platforms**
+- Design and prototype with **AI and analytics at the core**
+- Deliver **dashboards**, design systems, and complex UX flows
+
+---
+
+### 🔧 Current Focus
+- Data Analysis for Product Design (Real case studies coming soon)
+- Python & Web Scraping Bootcamp 📈
+- MBA Prep + AI/UX Research ✨
+
+---
+
+### 📫 Connect with Me  
+💼 [Portfolio](https://yourportfolio.com)  
+📧 [Email](mailto:your@email.com)  
+📍 Based in [City/Country] | Available for freelance + full-time opportunities
+
+---
+
+> *“Design without data is like a map without a compass.”*
+
